@@ -1,0 +1,29 @@
+{
+  "repo": "red-dead-2-crash-fix",
+  "product": "Red Dead 2 Crash Fix",
+  "kind": "utility",
+  "install_type": "mylunora",
+  "install_url": "https://mylunora.art",
+  "batch": "git-new-era-mylunora",
+  "format": "license-md-mylunora-v3-game-copy",
+  "category": "game-optimization",
+  "topics": [
+    "red",
+    "red-desktop",
+    "red-release",
+    "red-windows",
+    "gaming-performance",
+    "frame-timing",
+    "pc-gaming",
+    "windows-gaming",
+    "game-stability",
+    "low-latency",
+    "network-tuning",
+    "graphics-tuning",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "mylunora.art",
+  "product_title": "Red Dead 2 Crash Fix"
+}
